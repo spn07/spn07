@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Spn and I'm a Windows & Linux Software Enthusiast, from Romania.</h2>
+<h2 align="left">Hi 👋</h2>
 
 ###
 
