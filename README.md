@@ -7,6 +7,6 @@
 [![Editors](https://skillicons.dev/icons?i=sublime,visualstudio)](https://skillicons.dev)
 
 # Actually Learning
-[![Learning](https://skillicons.dev/icons?i=azure,cpp,dotnet)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=azure,html,css,dotnet)](https://skillicons.dev)
 
 ###
